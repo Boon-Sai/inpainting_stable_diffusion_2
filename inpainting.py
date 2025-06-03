@@ -182,8 +182,8 @@ def main():
     # Example 1: Simple object removal
     try:
         result = remover.remove_object(
-            original_image_path="/home/litzchill/Boon_sai/inpainting/imgg-1.jpg",
-            mask_image_path="/home/litzchill/Boon_sai/inpainting/masked_img.png",
+            original_image_path="/home/litzchill/Boon_sai/inpainting/images/imgg-1.jpg",
+            mask_image_path="/home/litzchill/Boon_sai/inpainting/images/masked_img.png",
             output_path="output_result.jpg"
         )
         if result:
