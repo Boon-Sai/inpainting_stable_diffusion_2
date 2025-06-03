@@ -1,0 +1,46 @@
+torch
+torchvision
+torchaudio
+diffusers
+transformers
+accelerate
+pillow
+numpy
+safetensors
+xformers
+
+# # Core ML/AI Dependencies
+# torch
+# torchvision
+# numpy
+
+# # Image Processing
+# opencv-python
+# Pillow
+# scikit-image
+
+# # Utilities
+# requests
+# tqdm
+# matplotlib
+
+# # Optional: For better performance
+# # albumentations
+
+# # # Optional: For REST API (if you want web service)
+# # flask
+# # flask-cors
+
+# # # Optional: For faster inference
+# # onnxruntime-gpu  # Use onnxruntime for CPU-only
+
+# # # Development/Testing
+# # pytest
+
+# opencv-python # to mask the image
+
+# diffusers 
+# transformers 
+# torch 
+# torchvision
+# accelerate  # Required for faster inference
